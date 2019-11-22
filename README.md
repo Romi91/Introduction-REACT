@@ -1,7 +1,7 @@
 # Proyecto Rolling Code
 ## Introduccion a Ract
 
-### Instalacion
+### Instalacion del proyecto
 
 - `npm install`
 - `npm start`
