@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Romi91/Introduction-REACT/issues"
   },
-  "homepage": "https://github.com/Romi91/Introduction-REACT#readme"
+  "homepage": "https://github.com/Romi91/Introduction-REACT#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
 }
